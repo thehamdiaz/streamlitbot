@@ -1,5 +1,5 @@
 ## Groupe:
     * HAMDI Abdelaziz
     * BENJARRAD Saad
-    * Pola Issa
-    * Schlanger Sarah
+    * MIKHAEEL Pola Issa Helmy  
+    * SCHLANGER Sarah
