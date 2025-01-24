@@ -24,7 +24,7 @@
    pip install -r requirements.txt
    ```
 
-3. Exécutez une application Streamlit :
+3. Exécutez l'application Streamlit :
    Pour lancer la première application :
    ```bash
    streamlit run chatbotgpt.py
