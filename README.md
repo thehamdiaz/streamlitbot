@@ -1,3 +1,3 @@
 ## Groupe:
-    * HAMDI ABdelaziz
+    * HAMDI Abdelaziz
     * BENJARRAD Saad
