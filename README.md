@@ -16,7 +16,7 @@
 1. Clonez le dépôt GitHub :
    ```bash
    git clone https://github.com/thehamdiaz/streamlitbot.git
-   cd nom-du-projet
+   cd streamlitbot
    ```
 
 2. Installez les dépendances nécessaires :
